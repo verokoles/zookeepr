@@ -4,14 +4,14 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "jest",
-      "start": "node server.js"
+        "test": "jest",
+        "start": "node server.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "express": "^4.17.1"
+        "express": "^4.17.1",
+        "jest": "^27.5.1"
     }
-  }
-  
+}
